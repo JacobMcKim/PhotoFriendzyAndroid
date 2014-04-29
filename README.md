@@ -1,3 +1,3 @@
 PhotoFriendzyAndroid
 ====================
-The IOS source Code of photo friendzy.
+The Android source Code of photo friendzy.
